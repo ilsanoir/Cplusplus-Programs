@@ -1,1 +1,7 @@
 # Cplusplus-Programs
+The goal of this project was to create a piece of code that responded to the user's feedback by either displaying a bankstatement based on the user's specification with or without a recurring monthly payment, or to exit the program.
+One thing I'm particularly proud of was the formula's that I used and my implementation of loops to display the requested information of the requested period of time. It took some time to figure out but was quite rewarding to complete.
+I could have further stripped the main by having the menu be implemented as a function and simply having the user's input be fed to the function until an exit was requested.
+The most challenging part of the code to write was the loops, especially the nested loop for the monthly payments. I solved this by breaking down the code into much smaller chunks and figuring out how each part of the loop would function and then going from there. The internet houses some very good tools that are helpful for explaining and assisting with the logic of certain code chunks. Simply Googling an issue with your code could go a long way.
+The menu feedback loop was a very useful tool to learn and will very much come in handy in future projects.
+Having the code be largely broken up into functions with in line comments explaining what the various parts of the functions accomplish, ensures that it could easily altered and adapted should need for such changes arise.
